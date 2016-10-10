@@ -46,7 +46,7 @@ Usage
   //Change default_image for drawable that show while get image of urlImage
 ```
 
-
+in folder there is a basic example of usage.
 
 License
 -------
