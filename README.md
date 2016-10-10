@@ -20,7 +20,7 @@ dependencies {
     compile 'com.github.diegoalvis:lazyload:v1.0'
 }
 ```
-... or you can go to and  https://jitpack.io/#diegoalvis/lazyload
+... or you can go to https://jitpack.io/#diegoalvis/lazyload and follow the steps
 
 ================
 #Permissions
