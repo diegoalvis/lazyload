@@ -34,10 +34,8 @@ Manifest.xml
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
 
-
-
-Usage
------
+================
+#Usage
 ```java
   ImageLoader imageLoader = new ImageLoader(activity.getApplicationContext());
   ImageVIew imageView;
