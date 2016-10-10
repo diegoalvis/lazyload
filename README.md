@@ -51,7 +51,7 @@ in app folder there is a basic example of usage.
 License
 -------
 
-    Copyright 2014 - 2016 Henning Dodenhof
+    Copyright 2016 Diego Alvis
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
